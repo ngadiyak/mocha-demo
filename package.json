@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "mocha ./tests/*.js"
+    "test": "mocha --reporter mocha-allure-reporter ./tests/*.js"
   },
   "dependencies": {
     "allure-commandline": "2.8.1",

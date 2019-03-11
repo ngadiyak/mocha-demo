@@ -4,10 +4,9 @@
   },
   "dependencies": {
     "allure-commandline": "2.8.1",
-    "easy-soap-request": "^2.4.1",
-    "mocha": "^6.0.2",
-    "mocha-allure-reporter": "^1.4.0",
-    "sync-request": "^6.0.0",
-    "unirest": "^0.6.0"
+    "easy-soap-request": "2.4.1",
+    "mocha": "6.0.2",
+    "mocha-allure-reporter": "1.4.0",
+    "sync-request": "6.0.0"
   }
 }
